@@ -1,8 +1,5 @@
 # 内容：Steam
 # 数量：18条
-DOMAIN,steamcdn-a.akamaihd.net,DIRECT
-DOMAIN-SUFFIX,steamserver.net,DIRECT
-GEOIP,CN,DIRECT
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steampipe.akamaized.net
