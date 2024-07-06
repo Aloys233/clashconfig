@@ -1,5 +1,5 @@
 # 内容：Steam
-# 数量：18条
+# 数量：21条
 DOMAIN,steamcdn-a.akamaihd.net,DIRECT
 DOMAIN-SUFFIX,steamserver.net,DIRECT
 GEOIP,CN,DIRECT
